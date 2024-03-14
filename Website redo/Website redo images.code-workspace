@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Images for website"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Website redo",
+		"liveServer.settings.port": 5501
+	}
+}

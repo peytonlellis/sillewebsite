@@ -1,0 +1,77 @@
+.home-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: flex-end;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url("Images for website/IMG_4979.jpg");
+  }
+  .home-upcoming {
+    top: 232px;
+    right: 63px;
+    color: rgb(185, 124, 32);
+    width: 244px;
+    height: 114px;
+    position: absolute;
+    background-size: cover;
+    text-decoration: none;
+    background-image: url("https://play.teleporthq.io/static/svg/default-img.svg");
+  }
+  .home-music {
+    top: 378px;
+    left: 518px;
+    color: rgb(185, 124, 32);
+    width: 350px;
+    height: 203px;
+    position: absolute;
+    background-size: cover;
+    text-decoration: none;
+    background-image: url("Images for website/knockout 12 copy.PNG");
+  }
+  .home-about {
+    top: 292px;
+    left: 188px;
+    color: rgb(185, 124, 32);
+    width: 240px;
+    height: 140px;
+    position: absolute;
+    background-size: cover;
+    text-decoration: none;
+    background-image: url("https://play.teleporthq.io/static/svg/default-img.svg");
+  }
+  .home-sille {
+    top: 100px;
+    left: 550px;
+    width: 450px;
+    height: 240px;
+    position: absolute;
+    background-size: cover;
+    background-color: transparent;
+    border-color: transparent;
+    background-image: url("Images for website/knockout 11.PNG");
+  }
+  .home-shop {
+    top: 590px;
+    left: 216px;
+    color: rgb(185, 124, 32);
+    width: 253px;
+    height: 238px;
+    position: absolute;
+    background-size: cover;
+    text-decoration: none;
+    background-image: url("Images for website/knockout 13.PNG");
+  }
+  .home-videos {
+    top: 554px;
+    left: 885px;
+    color: rgb(185, 124, 32);
+    width: 208px;
+    height: 230px;
+    position: absolute;
+    background-size: cover;
+    text-decoration: none;
+    background-image: url("Images for website/knockout 15.PNG");
+  }
+  
